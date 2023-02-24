@@ -1,0 +1,6 @@
+# ipums api key
+# You can copy this file to ".Renviron", or it is created
+# by setup.R.
+# Once you've added the real API key to ".Renviron", do not add it to the repository - it is your secret.
+#
+API_KEY = "12355dafafdafdafadfafda"

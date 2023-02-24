@@ -1,0 +1,5 @@
+.Renviron
+stata.lic*
+set_key.do
+data/
+.Rproj.user

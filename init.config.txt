@@ -1,0 +1,4 @@
+# the TAG can be anything, but could be today's date
+TAG=$(date +%F) 
+MYHUBID=aeadataeditor
+MYIMG=ipumsapi
